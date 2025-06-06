@@ -24,8 +24,7 @@ A web-based **student leaderboard** built using **React.js** for the frontend an
 3. Create a `.env` file in the root directory and add:  
    ```env
    REACT_APP_API_URL=http://localhost/leaderboard
-   REACT_APP_FACEBOOK_API_KEY=your_facebook_api_key
-   REACT_APP_TWITTER_API_KEY=your_twitter_api_key
+   
    ```
 4. Start the React app:  
    ```sh
